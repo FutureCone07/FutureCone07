@@ -81,3 +81,14 @@
     <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,kali&perline=14"/>
   </a> 
 </p>
+
+## Contact Me:
+
+<section align="center" style="margin-left: 10px; margin-bottom: 27px;">
+   <a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/angeldavidramos/">
+		<img src="https://www.svgrepo.com/show/138936/linkedin.svg" width="75px">
+	</a>
+   <a style="margin-left: 12px; text-decoration: none;" target="_blank" href="mailto:angelromeroramos3@gmail.com?subject=Consulta&body=Hola, Quiero contactarte!">
+		<img src="https://www.svgrepo.com/download/452213/gmail.svg" width="75px">
+	</a>
+</section>
